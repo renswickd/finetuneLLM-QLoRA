@@ -1,0 +1,6 @@
+transformers==4.30
+bitsandbytes
+peft
+accelerate
+datasets
+torch
