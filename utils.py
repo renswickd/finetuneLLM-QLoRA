@@ -1,6 +1,6 @@
 def print_trainable_parameters(model):
     """
-    Prints the number of trainable parameters in the model.
+    This function aims to return number of trainable parameters over all the others
     """
     trainable_params = 0
     all_param = 0
